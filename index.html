@@ -25,7 +25,7 @@ sudo apt install devlogbus</code></pre>
   <pre><code>sudo curl -fsSL -o /etc/yum.repos.d/devlogbus.repo https://dan-sherwin.github.io/devlogbus-linux-repo/rpm/devlogbus.repo
 sudo rpm --import https://dan-sherwin.github.io/devlogbus-linux-repo/keys/devlogbus-archive-key.asc
 sudo dnf install devlogbus</code></pre>
-  <p>Use <code>sudo zypper install devlogbus</code> on openSUSE.</p>
+  <p>Use the same repository file under <code>/etc/zypp/repos.d/devlogbus.repo</code> and run <code>sudo zypper install devlogbus</code> on openSUSE.</p>
 
   <h2>Alpine Linux</h2>
   <pre><code>sudo wget -O /etc/apk/keys/devlogbus@dan-sherwin.rsa.pub https://dan-sherwin.github.io/devlogbus-linux-repo/keys/devlogbus@dan-sherwin.rsa.pub

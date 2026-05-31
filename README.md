@@ -27,7 +27,8 @@ sudo rpm --import https://dan-sherwin.github.io/devlogbus-linux-repo/keys/devlog
 sudo dnf install devlogbus
 ```
 
-Use `sudo zypper install devlogbus` on openSUSE.
+Use the same repository file under `/etc/zypp/repos.d/devlogbus.repo` and run
+`sudo zypper install devlogbus` on openSUSE.
 
 ## Alpine Linux
 
