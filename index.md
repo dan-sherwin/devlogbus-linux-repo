@@ -10,6 +10,10 @@ Repository base URL:
 https://dan-sherwin.github.io/devlogbus-linux-repo
 ```
 
+The default install commands favor fast local developer setup. Signed metadata
+and keys are published for users who want the higher-assurance path, but
+verification is a choice. If you skip it, you own that tradeoff.
+
 ## Debian / Ubuntu
 
 ```bash
