@@ -1,0 +1,29 @@
+Origin: DevLogBus
+Label: DevLogBus
+Suite: stable
+Codename: stable
+Version: 1.3.1
+Date: Sun, 31 May 2026 23:13:50 +0000
+Architectures: amd64 arm64
+Components: main
+Description: DevLogBus Linux package repository
+MD5Sum:
+ 84eea1cfe6ee8bb0ee02e18c8f6d6d7b              535 main/binary-amd64/Packages
+ f9ac4bb6012459cd7cfdf129e29a489d              404 main/binary-amd64/Packages.gz
+ 3d363a45a42637f5cb96012b71bf5979              535 main/binary-arm64/Packages
+ 0f0ebed6d5c448733d36da8c97a04029              403 main/binary-arm64/Packages.gz
+SHA1:
+ cdadac9258ca8c32054a8e8ee81f77d1196a8ea3              535 main/binary-amd64/Packages
+ 6908d0b34c3dc93c9b1f0e45b55f8f02b2085d8f              404 main/binary-amd64/Packages.gz
+ 29f90fa18e28f9ccbb4dcd9f792c8b6e2b8a4a8b              535 main/binary-arm64/Packages
+ 3e8008204bb195cba7a9a09da06eb56b9837b4f2              403 main/binary-arm64/Packages.gz
+SHA256:
+ 8c9f3e8268b490d073be21d204244056b818111bfd0443876a5ba48b0501f11f              535 main/binary-amd64/Packages
+ 028951d54073a45fb22c1b891e79b216a8661d88a7ca1eceeb591f482b7909d5              404 main/binary-amd64/Packages.gz
+ 82f596cdf7b2d77deffef937969628d42a93bf880fc7b6d214978101b095c382              535 main/binary-arm64/Packages
+ 876423f0ad89a2be3178118a796754dea68fe3662231c740f682b06dffe386f5              403 main/binary-arm64/Packages.gz
+SHA512:
+ dd8bb4aca1cf19205ba199632baf397f98d682410d45b19d4b19f9b73eedc61090f95444435040dc612707cce0dca44a1baefb6d8c51af7bc75a50b8044f79e2              535 main/binary-amd64/Packages
+ 61932b9e9364a4e912ae58576e5975275e7651bd892b5316e191e466544323d3deca7755d565672ac7068aad2ffd3dfb6e28520d6927600478c9d8dd9a474c62              404 main/binary-amd64/Packages.gz
+ a4208ba8df58c8a58be8f5346010526c30c1e0da62636b2821067b7a5ada92ef5c2710e62e1b715958b0016dee419c3bf292a1e899391a4af408cddb79a77dc7              535 main/binary-arm64/Packages
+ 5615f13e83cb53ead17c61deff653c697b29c9e1b63e9f3264e5de0bff278c4a91ffb98226db110869eb3f0c4e08da20800ca883ccf781b7f8ab10870e1279a8              403 main/binary-arm64/Packages.gz

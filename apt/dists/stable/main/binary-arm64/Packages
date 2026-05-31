@@ -1,0 +1,15 @@
+Package: devlogbus
+Version: 1.3.1
+Architecture: arm64
+Maintainer: Dan Sherwin <113303204+dan-sherwin@users.noreply.github.com>
+Installed-Size: 39752
+Filename: pool/main/d/devlogbus/devlogbus_1.3.1_arm64.deb
+Size: 17694942
+MD5sum: ea97d18b58ee21c6d2b2efd0ad0e7a15
+SHA1: dc80c91c78bfc6261cc747221e0abcf3ead90509
+SHA256: 3a466bfc50a72ba1baeec9b1a64d79f6b0c39764d9999a843eed5e4634434eed
+Section: utils
+Priority: optional
+Homepage: https://github.com/dan-sherwin/DevLogBus
+Description: Local-first structured log bus for development work.
+
