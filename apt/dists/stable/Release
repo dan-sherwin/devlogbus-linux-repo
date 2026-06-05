@@ -2,28 +2,28 @@ Origin: DevLogBus
 Label: DevLogBus
 Suite: stable
 Codename: stable
-Version: 1.3.1
-Date: Sun, 31 May 2026 23:32:47 +0000
+Version: 1.3.2
+Date: Fri, 05 Jun 2026 20:47:48 +0000
 Architectures: amd64 arm64
 Components: main
 Description: DevLogBus Linux package repository
 MD5Sum:
- 84eea1cfe6ee8bb0ee02e18c8f6d6d7b              535 main/binary-amd64/Packages
- 3c205e70c48127b537141a4f4f9ab30a              404 main/binary-amd64/Packages.gz
- 3d363a45a42637f5cb96012b71bf5979              535 main/binary-arm64/Packages
- c7e0827c6869f3f24495cfc877a07fce              403 main/binary-arm64/Packages.gz
+ 10391407be2adce63512fcc33be85e3d              630 main/binary-amd64/Packages
+ 485c8346ca7ad8281d977d3ed17f677b              473 main/binary-amd64/Packages.gz
+ 14511e34ad6d59941429e7b7a2119fef              630 main/binary-arm64/Packages
+ 261e2c0a5679cebc420fbe15a48dd928              473 main/binary-arm64/Packages.gz
 SHA1:
- cdadac9258ca8c32054a8e8ee81f77d1196a8ea3              535 main/binary-amd64/Packages
- e559132aced705d7356d59d5ead565bc7ee5574e              404 main/binary-amd64/Packages.gz
- 29f90fa18e28f9ccbb4dcd9f792c8b6e2b8a4a8b              535 main/binary-arm64/Packages
- 97dfcb02f7e4aa07712d95e27cd9017bddfc70bc              403 main/binary-arm64/Packages.gz
+ 6a4cb5b62760ed970dce275ec7be5a4c5da2d61d              630 main/binary-amd64/Packages
+ f1d4fab979564af5526ccc8be02f8ab04ed79a00              473 main/binary-amd64/Packages.gz
+ 555eea45b17463d940db5a0395d647c4e50a78d9              630 main/binary-arm64/Packages
+ 85d658097f4706ea14604b2855d48b617e845d32              473 main/binary-arm64/Packages.gz
 SHA256:
- 8c9f3e8268b490d073be21d204244056b818111bfd0443876a5ba48b0501f11f              535 main/binary-amd64/Packages
- dfd21e684498e90f5f4e4a99da5e26dbc8dd95af35ec527523e1ed3268d0f945              404 main/binary-amd64/Packages.gz
- 82f596cdf7b2d77deffef937969628d42a93bf880fc7b6d214978101b095c382              535 main/binary-arm64/Packages
- 81d35f8953a035851435f41ef2b069f85e58f128fe0a8478265acb2c67285bef              403 main/binary-arm64/Packages.gz
+ 638ab30f1f9115d2289d8e918b402dc8bb80028bcc5f492fcd7ce101ec720d75              630 main/binary-amd64/Packages
+ 1c37048a39b93c50307e086d2ea16b2aa362c6bfe1ada8a2ea46b85ac6dbb1d9              473 main/binary-amd64/Packages.gz
+ 5daad5b282c921c7dea832f78424a08cbd371f8fd4f692562059f343c56a6d0c              630 main/binary-arm64/Packages
+ 4a3cd998a2068e434dca7bcf42a8f144b9f7bf5240488fd1da2e76cf786024f6              473 main/binary-arm64/Packages.gz
 SHA512:
- dd8bb4aca1cf19205ba199632baf397f98d682410d45b19d4b19f9b73eedc61090f95444435040dc612707cce0dca44a1baefb6d8c51af7bc75a50b8044f79e2              535 main/binary-amd64/Packages
- 172631bd26257ac061d611a3975435fe89b91e840568e49f3ba0481207090c472abedeca89447ee19fb3f5163b1470983792f553bf9e7f33f8d87d466f209803              404 main/binary-amd64/Packages.gz
- a4208ba8df58c8a58be8f5346010526c30c1e0da62636b2821067b7a5ada92ef5c2710e62e1b715958b0016dee419c3bf292a1e899391a4af408cddb79a77dc7              535 main/binary-arm64/Packages
- 10e19aab347cd72be34a2a381574e65af0b90b25201b6953ca02faffaad10151d66fb0873267addfb364491953f2cb15795aa18c0416dabc3ac5a11db048eae6              403 main/binary-arm64/Packages.gz
+ 6060349cd84bee6d763a6b8e6398575f1ac6c41543685a23d39c150fc8567a18bf8b3be6277c221d5bcc8bf964d196eb2b3f6391e5da5fc4e7350b3780233f44              630 main/binary-amd64/Packages
+ f6bdecb44227ae849aac42ca35be84d83980a45820c9cc49d99231d3e135ee4e4c335c760c50eaae6008691c007170d5ffd4280ca6b33f1d152b2be8a4ad4763              473 main/binary-amd64/Packages.gz
+ d55d597d78d3e06867c9a47b2b6793d9f44cfe5e5c3ca1a82987832ae9c99e3bdee028ebd551157355c39afa9d0eaef2c7d9be4722c4746e1dfd52173e858fb0              630 main/binary-arm64/Packages
+ 8445809ff24a67e7f3b14b115c3f6ee022bc25d243dc45bd98ca58f64fd9b5ec9873f8e63a7c826b5d6ad4226ca6f163730c8c6341967ef62f488ca3a0fc07c7              473 main/binary-arm64/Packages.gz
