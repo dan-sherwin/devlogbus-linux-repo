@@ -1,13 +1,13 @@
 Package: devlogbus
-Version: 1.3.2
+Version: 1.4.0
 Architecture: arm64
 Maintainer: Dan Sherwin <113303204+dan-sherwin@users.noreply.github.com>
-Installed-Size: 40263
-Filename: pool/main/d/devlogbus/devlogbus_1.3.2_arm64.deb
-Size: 18044504
-MD5sum: d2e765de3414d65ffae54410b32a2596
-SHA1: 6c0e70237d2ef486e372f3d9514486d32ea17547
-SHA256: 47f6e3da342ba732d3ff6b96b0fbbf402c7bf801a73ff438e5c20963926ed47f
+Installed-Size: 40377
+Filename: pool/main/d/devlogbus/devlogbus_1.4.0_arm64.deb
+Size: 18194524
+MD5sum: 79d54fc805b95b25b6ca2ad37441f6ae
+SHA1: 987a4f65e9508c1cba6aea72e2e478517f03fc1e
+SHA256: bc82aebf993d467ec7f4c0310bd08c9d06f4e6a341a953341ee6358e4f1ec105
 Section: utils
 Priority: optional
 Homepage: https://github.com/dan-sherwin/DevLogBus

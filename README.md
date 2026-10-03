@@ -79,4 +79,4 @@ sudo apk add devlogbus
 
 ## Current Version
 
-`devlogbus 1.3.2`
+`devlogbus 1.4.0`
